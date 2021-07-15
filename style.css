@@ -1,0 +1,10 @@
+.container{
+   width: 334px;
+   height: 334px;
+   background-image: url(IMG_20210608_090712_938.jpg);
+  /* background-color: aqua; */
+  border: 2px solid red;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: white;
+}
